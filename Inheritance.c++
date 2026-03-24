@@ -44,6 +44,6 @@ class student : public Person
 
 int main()
 {
-    student S1("Rutuja",31,25);
+    student S1("Parth",18,36);
     S1.getinfo();
 }
